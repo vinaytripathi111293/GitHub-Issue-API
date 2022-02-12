@@ -25,7 +25,4 @@ router.post('/', function(req, res, next) {
       message: error.message
     });
   }
-  
-});
-
-module.exports = router;
+})
