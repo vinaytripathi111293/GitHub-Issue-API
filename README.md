@@ -1,5 +1,5 @@
 STEPS TO SETUP GITHUB ISSUE CREATION API
-========================================
+======================================== 
 
 #1. cd githubScript
  
