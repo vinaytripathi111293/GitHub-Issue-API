@@ -1,4 +1,4 @@
-const request = require('request');
+const request = require('request'); 
 module.exports.createIssue = (token, subPath, data, cb) => {
     var options = {
         method: 'POST',
