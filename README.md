@@ -2,7 +2,7 @@ STEPS TO SETUP GITHUB ISSUE CREATION API
 ========================================
 
 #1. cd githubScript
-
+ 
 #2. replace .env file content with your credentials
 
 #3. npm install
