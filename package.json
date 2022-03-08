@@ -1,19 +1,18 @@
 {
-  "name": "githubscript",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
-  },
-  "dependencies": {
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "dotenv": "^16.0.0",
-    "express": "~4.16.1",
-    "github-create-issue": "^2.0.0",
-    "http-errors": "~1.6.3",
-    "jade": "~1.11.0",
-    "morgan": "~1.9.1",
-    "request": "^2.88.2"
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "3d0590b2ea4ffc980332f7a91dc14c5fa6c1bb63",
+  "size": 388,
+  "url": "https://api.github.com/repos/vinaytripathi111293/GitHub-Issue-API/contents/package.json?ref=master",
+  "html_url": "https://github.com/vinaytripathi111293/GitHub-Issue-API/blob/master/package.json",
+  "git_url": "https://api.github.com/repos/vinaytripathi111293/GitHub-Issue-API/git/blobs/3d0590b2ea4ffc980332f7a91dc14c5fa6c1bb63",
+  "download_url": "https://raw.githubusercontent.com/vinaytripathi111293/GitHub-Issue-API/master/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogImdpdGh1YnNjcmlwdCIsCiAgInZlcnNpb24iOiAiMC4w\nLjAiLAogICJwcml2YXRlIjogdHJ1ZSwKICAic2NyaXB0cyI6IHsKICAgICJz\ndGFydCI6ICJub2RlIC4vYmluL3d3dyIKICB9LAogICJkZXBlbmRlbmNpZXMi\nOiB7CiAgICAiY29va2llLXBhcnNlciI6ICJ+MS40LjQiLAogICAgImRlYnVn\nIjogIn4yLjYuOSIsCiAgICAiZG90ZW52IjogIl4xNi4wLjAiLAogICAgImV4\ncHJlc3MiOiAifjQuMTYuMSIsCiAgICAiZ2l0aHViLWNyZWF0ZS1pc3N1ZSI6\nICJeMi4wLjAiLAogICAgImh0dHAtZXJyb3JzIjogIn4xLjYuMyIsCiAgICAi\namFkZSI6ICJ+MS4xMS4wIiwKICAgICJtb3JnYW4iOiAifjEuOS4xIiwKICAg\nICJyZXF1ZXN0IjogIl4yLjg4LjIiCiAgfQp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/vinaytripathi111293/GitHub-Issue-API/contents/package.json?ref=master",
+    "git": "https://api.github.com/repos/vinaytripathi111293/GitHub-Issue-API/git/blobs/3d0590b2ea4ffc980332f7a91dc14c5fa6c1bb63",
+    "html": "https://github.com/vinaytripathi111293/GitHub-Issue-API/blob/master/package.json"
   }
 }
