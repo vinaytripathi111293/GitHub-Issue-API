@@ -9,6 +9,9 @@
   "download_url": "https://raw.githubusercontent.com/vinaytripathi111293/GitHub-Issue-API/master/package.json",
   "type": "file",
   "content": "ewogICJuYW1lIjogImdpdGh1YnNjcmlwdCIsCiAgInZlcnNpb24iOiAiMC4w\nLjAiLAogICJwcml2YXRlIjogdHJ1ZSwKICAic2NyaXB0cyI6IHsKICAgICJz\ndGFydCI6ICJub2RlIC4vYmluL3d3dyIKICB9LAogICJkZXBlbmRlbmNpZXMi\nOiB7CiAgICAiY29va2llLXBhcnNlciI6ICJ+MS40LjQiLAogICAgImRlYnVn\nIjogIn4yLjYuOSIsCiAgICAiZG90ZW52IjogIl4xNi4wLjAiLAogICAgImV4\ncHJlc3MiOiAifjQuMTYuMSIsCiAgICAiZ2l0aHViLWNyZWF0ZS1pc3N1ZSI6\nICJeMi4wLjAiLAogICAgImh0dHAtZXJyb3JzIjogIn4xLjYuMyIsCiAgICAi\namFkZSI6ICJ+MS4xMS4wIiwKICAgICJtb3JnYW4iOiAifjEuOS4xIiwKICAg\nICJyZXF1ZXN0IjogIl4yLjg4LjIiCiAgfQp9Cg==\n",
+  "dependencies": {
+    "sachin": "123"
+  }
   "encoding": "base64",
   "_links": {
     "self": "https://api.github.com/repos/vinaytripathi111293/GitHub-Issue-API/contents/package.json?ref=master",
